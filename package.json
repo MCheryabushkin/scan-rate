@@ -5,7 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "webpack serve",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "dev": "webpack serve",
     "build": "webpack"
   },
   "author": "",
