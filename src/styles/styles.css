@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("../assets/OpenSans/OpenSans-Regular.eot");
+    src: url("../assets/OpenSans/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+        url("../assets/OpenSans/OpenSans-Regular.woff") format("woff"),
+        url("../assets/OpenSans/OpenSans-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Open Sans Bold";
+    src: url("../assets/OpenSans/OpenSans-Bold.eot");
+    src: url("../assets/OpenSans/OpenSans-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../assets/OpenSans/OpenSans-Bold.woff") format("woff"),
+        url("../assets/OpenSans/OpenSans-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Open Sans SemiBold";
+    src: url("../assets/OpenSans/OpenSans-SemiBold.eot");
+    src: url("../assets/OpenSans/OpenSans-SemiBold.eot?#iefix") format("embedded-opentype"),
+        url("../assets/OpenSans/OpenSans-SemiBold.woff") format("woff"),
+        url("../assets/OpenSans/OpenSans-SemiBold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Open Sans ExtraBold";
+    src: url("../assets/OpenSans/OpenSans-ExtraBold.eot");
+    src: url("../assets/OpenSans/OpenSans-ExtraBold.eot?#iefix") format("embedded-opentype"),
+        url("../assets/OpenSans/OpenSans-ExtraBold.woff") format("woff"),
+        url("../assets/OpenSans/OpenSans-ExtraBold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Open Sans Light";
+    src: url("../assets/OpenSans/OpenSans-Light.eot");
+    src: url("../assets/OpenSans/OpenSans-Light.eot?#iefix") format("embedded-opentype"),
+        url("../assets/OpenSans/OpenSans-Light.woff") format("woff"),
+        url("../assets/OpenSans/OpenSans-Light.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}

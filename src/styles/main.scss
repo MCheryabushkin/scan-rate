@@ -1,0 +1,10 @@
+$font-size: 1rem;
+$font-color: lch(53 105 40);
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-size: $font-size;
+    color: $font-color;
+}
