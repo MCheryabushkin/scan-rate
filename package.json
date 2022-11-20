@@ -1,7 +1,7 @@
 {
   "name": "react-wincc",
   "version": "1.0.0",
-  "homepage": "https://gitname.github.io/scan-rate",
+  "homepage": "https://mcheryabushkin.github.io/scan-rate",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -14,11 +14,10 @@
   "dependencies": {
     "@babel/preset-react": "^7.13.13",
     "@hot-loader/react-dom": "^17.0.1",
-    "@types/d3": "^7.1.0",
     "all-countries-and-cities-json": "^1.0.0",
-    "d3": "^7.1.1",
     "favicons": "^6.2.2",
     "gh-pages": "^4.0.0",
+    "moment": "^2.29.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hot-loader": "^4.13.0",

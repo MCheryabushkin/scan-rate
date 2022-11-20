@@ -9,7 +9,7 @@ module.exports = {
 
     entry: './src',
     output: {
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'build'),
         filename: "[name].bundle.js"
     },
 
@@ -108,7 +108,7 @@ module.exports = {
 
     devServer: {
         historyApiFallback: true,
-        contentBase: path.resolve(__dirname, './dist'),
+        contentBase: path.resolve(__dirname, './build'),
         open: true,
         compress: true,
         hot: true,
